@@ -1,0 +1,25 @@
+{
+  "name": "discord-chatgpt-selfbot",
+  "version": "1.0.0",
+  "description": "cool cool",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cypphi/discord-chatgpt-selfbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cypphi/discord-chatgpt-selfbot/issues"
+  },
+  "homepage": "https://github.com/Cypphi/discord-chatgpt-selfbot#readme",
+  "dependencies": {
+    "chatgpt": "^4.3.2",
+    "discord.js-selfbot-v13": "^2.10.4",
+    "nodemon": "^2.0.20"
+  }
+}

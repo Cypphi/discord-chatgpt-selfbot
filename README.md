@@ -1,5 +1,6 @@
 # discord-chatgpt-selfbot
 cool cool
+DISCLAIMER: I won't update this repo, this was made for a friend and speedran in 5 minutes, hence why the code is so bad.
 
 # Usage
 - Clone this repository
